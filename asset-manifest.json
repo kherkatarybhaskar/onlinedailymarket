@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/onlinedailymarket/static/css/main.ed6d0169.chunk.css",
+    "main.js": "/onlinedailymarket/static/js/main.7599d2d6.chunk.js",
+    "main.js.map": "/onlinedailymarket/static/js/main.7599d2d6.chunk.js.map",
+    "runtime-main.js": "/onlinedailymarket/static/js/runtime-main.b75cb246.js",
+    "runtime-main.js.map": "/onlinedailymarket/static/js/runtime-main.b75cb246.js.map",
+    "static/js/2.e55735f0.chunk.js": "/onlinedailymarket/static/js/2.e55735f0.chunk.js",
+    "static/js/2.e55735f0.chunk.js.map": "/onlinedailymarket/static/js/2.e55735f0.chunk.js.map",
+    "static/css/3.56d8f420.chunk.css": "/onlinedailymarket/static/css/3.56d8f420.chunk.css",
+    "static/js/3.1b853be2.chunk.js": "/onlinedailymarket/static/js/3.1b853be2.chunk.js",
+    "static/js/3.1b853be2.chunk.js.map": "/onlinedailymarket/static/js/3.1b853be2.chunk.js.map",
+    "index.html": "/onlinedailymarket/index.html",
+    "precache-manifest.f2cda6c12aadf980769cc45d193f35fc.js": "/onlinedailymarket/precache-manifest.f2cda6c12aadf980769cc45d193f35fc.js",
+    "service-worker.js": "/onlinedailymarket/service-worker.js",
+    "static/css/3.56d8f420.chunk.css.map": "/onlinedailymarket/static/css/3.56d8f420.chunk.css.map",
+    "static/css/main.ed6d0169.chunk.css.map": "/onlinedailymarket/static/css/main.ed6d0169.chunk.css.map",
+    "static/js/2.e55735f0.chunk.js.LICENSE.txt": "/onlinedailymarket/static/js/2.e55735f0.chunk.js.LICENSE.txt",
+    "static/media/attaimage.png": "/onlinedailymarket/static/media/attaimage.cc9495e9.png",
+    "static/media/logo.jpg": "/onlinedailymarket/static/media/logo.668b8e05.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b75cb246.js",
+    "static/js/2.e55735f0.chunk.js",
+    "static/css/main.ed6d0169.chunk.css",
+    "static/js/main.7599d2d6.chunk.js"
+  ]
+}
